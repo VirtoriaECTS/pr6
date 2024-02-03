@@ -1,0 +1,9 @@
+﻿  funn.cpp
+  pract6.cpp
+C:\Users\st310-03\Desktop\MolotovaVika\Системное программирование\pract6\pract6\pract6.cpp(18,17): warning C4101: minutes: неиспользованная локальная переменная
+C:\Users\st310-03\Desktop\MolotovaVika\Системное программирование\pract6\pract6\pract6.cpp(18,11): warning C4101: hour: неиспользованная локальная переменная
+C:\Users\st310-03\Desktop\MolotovaVika\Системное программирование\pract6\pract6\pract6.cpp(18,26): warning C4101: second: неиспользованная локальная переменная
+  Создание кода...
+pract6.obj : error LNK2005: "float __cdecl fun_time(float,float)" (?fun_time@@YAMMM@Z) уже определен в funn.obj
+pract6.obj : error LNK2005: "float __cdecl fun_time(float,float,float)" (?fun_time@@YAMMMM@Z) уже определен в funn.obj
+C:\Users\st310-03\Desktop\MolotovaVika\Системное программирование\pract6\Debug\pract6.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
